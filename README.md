@@ -3,7 +3,7 @@
 <h1 align="center"> ✮ ⋆ ˚｡𖦹 ⋆｡°✩ </h1>
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/28/fe/41/28fe4191f0480cebd7ffe79fa27f0fdd.gif" width="600" height="300">
+    <img src="https://i.pinimg.com/736x/19/73/ff/1973ff446db07ca723b9bf5843bde397.jpg" width="1000" height="150">
 </div>
     <h2 align="left"> ⤷ ゛about me ˎˊ˗ </h2>
     <img align="right" src="https://i.pinimg.com/1200x/05/56/3d/05563d4748b9b6424b0c018dedcc388d.jpg" width="700" height="400" align="right">
