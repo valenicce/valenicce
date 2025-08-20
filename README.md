@@ -8,15 +8,15 @@
     <h2 align="left"> ⤷ ゛about me ˎˊ˗ </h2>
     <img align="right" src="https://i.pinimg.com/1200x/05/56/3d/05563d4748b9b6424b0c018dedcc388d.jpg" width="700" height="400" align="right">
     <li>
-        <b>Name:</b> valentina</li>
+        <b>Name:</b> Valentina</li>
     <li>
-        <b>Nationality:</b> argentinian
+        <b>Nationality:</b> Argentinian
     </li>
     <li>
-        <b>Loves:</b> cats, jfashion, tech stuff, visual novels, fujimoto
+        <b>Loves:</b> Cats, jfashion, tech stuff, visual novels, fujimoto
     </li>
     <li>
-        <b>Hobbys:</b> draw, music, cosplay
+        <b>Hobbys:</b> Draw, music, cosplay
     </li>
     <br>
 </div>
